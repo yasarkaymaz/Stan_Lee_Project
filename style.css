@@ -1,0 +1,88 @@
+body{
+    
+    background-color:black ;
+    color: white;
+
+    
+
+}
+
+.container{
+    width: 80%;
+    background-color: rgb(48, 46, 46, 0.815);
+    margin: auto;
+    border-radius: 20px;}
+
+
+h1{ text-align: center;
+font-family: 'Lobster', cursive;
+font-size: 90px;
+}
+
+.st{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    text-align: justify;
+    font-size: 1.5rem;
+
+}
+h2{
+    text-align: left;
+font-family: 'Lobster', cursive;
+font-size: 30px;
+color: red;
+margin-left: 10%;
+
+}
+
+
+
+#image{
+    width: 400px;
+    box-shadow: 5px 5px 500px red;
+    border-radius: 40px;
+
+    }
+
+#surname{
+    color: red;
+}
+
+.img{
+    text-align: center;
+    
+}
+
+ul{
+    width: 80%;
+    margin :auto ;
+    
+    
+}
+
+ul li{
+    font-size: 24px;
+}
+
+#footer{
+    font-size: 2rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+#link{border: 2px solid orange;
+    border-radius: 5px;
+    font-size: 30px;
+    padding: 16px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    
+
+
+}
+
+#link:hover{
+    color: red;
+}
